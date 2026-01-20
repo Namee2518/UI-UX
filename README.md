@@ -2,7 +2,7 @@
 
 ## Project Overview
 This repository contains the UI/UX design of an E-Commerce application created using Figma.  
-The design focuses on product presentation, clean layout, and a smooth shopping experience.
+The design focuses on clean layout, product presentation, and a smooth shopping experience.
 
 ## Screens Included
 - Home Screen  
@@ -39,12 +39,12 @@ Home → Product Browsing → Cart → Payment
 ### Product Screens
 ![Product 1](https://github.com/Namee2518/UI-UX/blob/main/product%201.jpg?raw=true)
 ![Product 2](https://github.com/Namee2518/UI-UX/blob/main/product%202.jpg?raw=true)
-![Product 3](https://github.com/Namee2518/UI-UX/blob/main/product%203.jpg?raw=true)
+![Product 3](https://github.com/Namee2518/UI-UX/blob/main/product%203.png?raw=true)
 ![Product 4](https://github.com/Namee2518/UI-UX/blob/main/product%204.jpg?raw=true)
-![Product 5](https://github.com/Namee2518/UI-UX/blob/main/product%205.jpg?raw=true)
-![Product 6](https://github.com/Namee2518/UI-UX/blob/main/product%206.jpg?raw=true)
+![Product 5](https://github.com/Namee2518/UI-UX/blob/main/product%205.png?raw=true)
+![Product 6](https://github.com/Namee2518/UI-UX/blob/main/product%206.png?raw=true)
 ![Product 7](https://github.com/Namee2518/UI-UX/blob/main/product%207.jpg?raw=true)
-![Product 8](https://github.com/Namee2518/UI-UX/blob/main/product%208.jpg?raw=true)
+![Product 8](https://github.com/Namee2518/UI-UX/blob/main/product%208.png?raw=true)
 
 ### Cart Screen
 ![Cart Screen](https://github.com/Namee2518/UI-UX/blob/main/cart.jpg?raw=true)
